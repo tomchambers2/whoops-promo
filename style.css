@@ -16,15 +16,16 @@ img {
 }
 
 .title {
-  font-family: "Libre Barcode 128 Text", cursive;
-  /* font-size: 150px; */
-
   font-size: 9vw;
 
-  /* font-family: dot-matrix;
-  color: green;
+  /* font-family: "Libre Barcode 128 Text", cursive; */
+  /* font-size: 150px; */
+
+  font-family: dot-matrix;
+  color: #76de91;
   text-transform: uppercase;
-  font-size: 50px; */
+  font-size: 5.8vw;
+  /* font-size: 50px; */
 }
 
 a {
